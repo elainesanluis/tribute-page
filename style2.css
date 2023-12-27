@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+
+
+body {
+  background-image: url(/image/peakpx.jpg);
+  
+  background-size: cover;
+  background-color: #313036;
+  background-repeat: no-repeat;
+  background-position: center center;
+  justify-content: center;
+  text-align: center;
+  margin: 1px;
+  padding: 1px;
+  min-height: 100vh;
+  
+}
+
+.container {
+  display: block;
+  position: absolute;
+  justify-content: center;
+  top: 15%;
+  right: 5%;
+  padding: 5px;
+  margin: 2px;
+  left: 20%;
+  background-color: #FFF;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 30px ;
+}
