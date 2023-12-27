@@ -119,7 +119,8 @@ html, body {
     }
 
     #tribute-link {
-        background-color: aliceblue;
+      background-color: none;
+      color: white;
         position: absolute;
         top: auto;
         left: auto;
@@ -273,7 +274,8 @@ html, body {
     #tribute-link a {
      text-decoration: none;
      padding: 1px;
-      color: black;
+     background-color: none;
+     color: white;
    }
 
     h6 {
@@ -395,7 +397,8 @@ html, body {
     }
 
     #tribute-link {
-        background-color: aliceblue;
+      background-color: none;
+      color: white;
         position: absolute;
         top: auto;
         left: auto;
@@ -409,7 +412,8 @@ html, body {
     #tribute-link a {
      text-decoration: none;
      padding: 1px;
-      color: black;
+     background-color: none;
+     color: white;
    }
 
     h6 {
@@ -533,7 +537,8 @@ html, body {
     }
 
     #tribute-link {
-        background-color: aliceblue;
+        background-color: none;
+        color: white;
         position: absolute;
         top: auto;
         bottom: -20px;
@@ -548,7 +553,8 @@ html, body {
    #tribute-link a {
      text-decoration: none;
      padding: 1px;
-     color: black;
+     background-color: none;
+     color: white;
    }
     
   }
